@@ -16,7 +16,7 @@ $ git clone https://github.com/Your_Username/musicApp.git
 Once you have cloned the `musicApp` repository in Github, move to that folder first using change directory command on Linux, Windows and Mac.
 ```sh
 $ cd musicApp
-# This will change directory to a folder RetroJam-App
+# This will change directory to a folder musicApp
 ```
 ### 3. Ready Steady Go... :turtle: :rabbit2:
 Once you have completed these steps, you are ready to start contributing by checking our `CSoC` Issues and creating [pull requests](https://github.com/cu-coders/musicApp/pulls).
