@@ -1,6 +1,7 @@
 ## Welcome to musicApp
 A Music App made by HTML,CSS,JavaScript
 
+Press any alphabet keys.
 
 ## Steps to follow :scroll:
 
